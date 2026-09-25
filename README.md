@@ -128,11 +128,11 @@ Active: active (running)
 ### Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot%202026-09-25%20at%202.56.09%20PM.png" alt="OpenLDAP install screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_2.56.09_PM.png" alt="OpenLDAP install screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.01.37%20PM.png" alt="OpenLDAP configuration screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.01.37_PM.png" alt="OpenLDAP configuration screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.03.00%20PM.png" alt="OpenLDAP service status screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.03.00_PM.png" alt="OpenLDAP service status screenshot" width="1000" />
 </div>
 
 ---
@@ -273,9 +273,9 @@ Do not proceed until this works.
 ### Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.05.04%20PM.png" alt="LDAP user verification screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.05.04_PM.png" alt="LDAP user verification screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.19.10%20PM.png" alt="LDAP user search screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.19.10_PM.png" alt="LDAP user search screenshot" width="1000" />
 </div>
 
 ---
@@ -546,11 +546,11 @@ That is your first complete authentication checkpoint.
 ### Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.26.03%20PM.png" alt="FreeRADIUS validation screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.26.03_PM.png" alt="FreeRADIUS validation screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.27.16%20PM.png" alt="FreeRADIUS config test screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.27.16_PM.png" alt="FreeRADIUS config test screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.28.18%20PM.png" alt="FreeRADIUS local auth screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.28.18_PM.png" alt="FreeRADIUS local auth screenshot" width="1000" />
 </div>
 
 ---
@@ -652,11 +652,11 @@ D-Link → Mac → Kali
 ### Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.32.41%20PM.png" alt="socat relay screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.32.41_PM.png" alt="socat relay screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.37.50%20PM.png" alt="Mac TCP listener screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.37.50_PM.png" alt="Mac TCP listener screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.40.57%20PM.png" alt="socat and port verification screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.40.57_PM.png" alt="socat and port verification screenshot" width="1000" />
 </div>
 
 ---
@@ -709,11 +709,11 @@ Repeat the same security/RADIUS configuration for the 2.4 GHz SSID if you want b
 ### Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.46.12%20PM.png" alt="D-Link web UI screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.46.12_PM.png" alt="D-Link web UI screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%203.53.50%20PM.png" alt="D-Link security config screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_3.53.50_PM.png" alt="D-Link security config screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%204.06.17%20PM.png" alt="D-Link radius config screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_4.06.17_PM.png" alt="D-Link radius config screenshot" width="1000" />
 </div>
 
 ---
@@ -790,11 +790,11 @@ CollegeWifi-Test-5
 ### Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.00.43%20PM.png" alt="RADIUS debug startup screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.00.43_PM.png" alt="RADIUS debug startup screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.09.33%20PM.png" alt="RADIUS request debug screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.09.33_PM.png" alt="RADIUS request debug screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.09.42%20PM.png" alt="Wi-Fi auth attempt screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.09.42_PM.png" alt="Wi-Fi auth attempt screenshot" width="1000" />
 </div>
 
 ---
@@ -895,11 +895,11 @@ FreeRADIUS documents that successful EAP-TTLS authentication should involve seve
 ### Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.16.39%20PM.png" alt="Access-Request debug screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.16.39_PM.png" alt="Access-Request debug screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.19.44%20PM.png" alt="TTLS PAP debug screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.19.44_PM.png" alt="TTLS PAP debug screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.19.51%20PM.png" alt="Auth success screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.19.51_PM.png" alt="Auth success screenshot" width="1000" />
 </div>
 
 ---
@@ -1291,29 +1291,29 @@ That is the complete 5-step startup routine, with the local `radtest` verificati
 ### Screenshots
 
 <div align="center">
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.35.57%20PM.png" alt="final startup screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.35.57_PM.png" alt="final startup screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.37.23%20PM.png" alt="startup validation screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.37.23_PM.png" alt="startup validation screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.39.03%20PM.png" alt="final Wi-Fi test screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.39.03_PM.png" alt="final Wi-Fi test screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.41.01%20PM.png" alt="successful authentication screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.41.01_PM.png" alt="successful authentication screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%206.44.46%20PM.png" alt="final success screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_6.44.46_PM.png" alt="final success screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%207.25.08%20PM.png" alt="network validation screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_7.25.08_PM.png" alt="network validation screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%208.03.38%20PM.png" alt="lab environment screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_8.03.38_PM.png" alt="lab environment screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%208.23.29%20PM.png" alt="terminal screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_8.23.29_PM.png" alt="terminal screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%208.23.45%20PM.png" alt="RADIUS relay screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_8.23.45_PM.png" alt="RADIUS relay screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%208.23.56%20PM.png" alt="Kali and Mac screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_8.23.56_PM.png" alt="Kali and Mac screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot%202026-09-25%20at%209.44.37%20PM.png" alt="final validation screenshot" width="1000" />
+  <img src="screenshots/Screenshot_2026-09-25_at_9.44.37_PM.png" alt="final validation screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/WhatsApp%20Image%202026-09-26%20at%2000.14.02.jpeg" alt="WhatsApp final screenshot" width="1000" />
+  <img src="screenshots/WhatsApp_Image_2026-09-26_at_00.14.02.jpeg" alt="WhatsApp final screenshot" width="1000" />
 </div>
 
 ---

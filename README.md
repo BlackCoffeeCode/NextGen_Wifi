@@ -1311,8 +1311,6 @@ That is the complete 5-step startup routine, with the local `radtest` verificati
   <br /><br />
   <img src="screenshots/Screenshot_2026-09-25_at_8.23.56_PM.png" alt="Kali and Mac screenshot" width="1000" />
   <br /><br />
-  <img src="screenshots/Screenshot_2026-09-25_at_9.44.37_PM.png" alt="final validation screenshot" width="1000" />
-  <br /><br />
   <img src="screenshots/WhatsApp_Image_2026-09-26_at_00.14.02.jpeg" alt="WhatsApp final screenshot" width="1000" />
 </div>
 
